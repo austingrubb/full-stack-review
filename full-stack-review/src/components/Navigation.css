@@ -1,0 +1,13 @@
+.navigation{
+    display: flex;
+    justify-content: space-evenly;
+    border-radius:10px;
+    background: salmon; 
+    padding: 20px;
+
+}
+
+.navigation a{
+    color: aqua;
+    text-decoration: none;
+}
