@@ -4,9 +4,9 @@
 
 * Pages
  * Profile
-  * Name
-  * Picture
-  * Email address
+  * name
+  * picture
+  * email address
  * Landing page/Home page
  * List words/Add
 * Components
